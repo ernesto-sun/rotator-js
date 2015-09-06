@@ -1,8 +1,8 @@
 # rotator-js
-simple rotator made in JavaScript (cumulus, tag-cloud)
+Simple Rotator made in JavaScript (cumulus, tag-cloud)
 
-Using jQuery for initialization and (a litle bit) jQuery-mobile to support touch-screens
-Designed for simplicity and performance. Using only Javascript at the movement-routine
+Using jQuery for initialization and (a litle bit) jQuery-mobile to support touch-screens.
+Designed for simplicity and performance. Using only Javascript at the movement-routine.
 
 Open Source
 @copyright (C) 2015 Ing. Ernst Johann Peterec
@@ -40,11 +40,11 @@ Edit rotator.html to configure your own entries. Edit custom.css to make it look
 
 ## Minimal needed files:
 
+* jQuery and jQuery Mobile (only the event-support) 
 * rotator.html
 * rotator.css
 * custom.css
-* rotator.js
-* jQuery and jQuery Mobile (only the event-support) 
+* rotator.js  (needs to be included at last)
 
 
 
