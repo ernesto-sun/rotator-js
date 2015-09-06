@@ -8,6 +8,8 @@ Open Source
 @copyright (C) 2015 Ing. Ernst Johann Peterec
 @license AGPL <http://www.gnu.org/licenses/agpl.txt>
 
+@demo http://ernesto-sun.com/demo/rotator/rotator.html
+
 ## Features:
 
 * nice performance because of lookup-tables
