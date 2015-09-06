@@ -1,0 +1,23 @@
+/* This CSS is needed to make the rotator work. Better do not change it. 
+   Use cutom.css instead for customizations */
+
+.div-rotator
+{
+position:relative;
+opacity:0.1;
+overflow:visible;	
+}
+
+.div-rotator div
+{
+position:absolute;
+}
+
+.div-rotator div div div
+{
+white-space: nowrap;	
+-moz-user-select: none;
+-khtml-user-select: none;
+-webkit-user-select: none;
+user-select: none;
+}
