@@ -38,6 +38,7 @@ Ideas, bug-reports, improvements or any comments welcome. Thanks!!
 * http://www.goat1000.com/tagcanvas.php
 * http://dynamicguy.github.io/tagcloud/
 * http://www.roytanck.com/tag-cloud/ (good old WP Cumulus plugin using Flash)
+* http://www.iangeorge.net/snippets/tags/
 * https://github.com/jerone/JS-Cumulus
  
 Note: The most cumulus-implementations use much CPU but they are also nicer, smoother, more 3D. My hope is to find a way to realize a smooth left-right-movement and keep the nice performance.  
