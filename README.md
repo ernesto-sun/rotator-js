@@ -1,7 +1,7 @@
 # rotator-js
 Simple Rotator made in JavaScript (cumulus, tag-cloud)
 
-Using jQuery for initialization and (a litle bit) jQuery-mobile to support touch-screens.
+Using jQuery for initialization and (a little bit) jQuery-mobile to support touch-screens.
 Designed for simplicity and performance. Using only Javascript at the movement-routine.
 
 Open Source
@@ -31,8 +31,6 @@ Open Source
 
 Ideas, bug-reports, improvements or any comments welcome. Thanks!!
 
-------------
-
 ## Installation:
 
 Just download the files and open the 'rotator.html' in any browser. Should work straight away.
@@ -47,6 +45,7 @@ Edit rotator.html to configure your own entries. Edit custom.css to make it look
 * custom.css
 * rotator.js  (needs to be included at last)
 
+Note for developers: Of course the jQuery-includes can be redirected to link to a prominent online-version (speeds up because of HTTP- and Browser-caching)
 
 
 
