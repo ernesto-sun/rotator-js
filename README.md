@@ -23,6 +23,7 @@ Open Source
 ## To Do:
 
 * testing, testing
+* making possible the use of several rotators in one website 
 * improving the touch-screen/mobile support
 * creating a jQuery-plugin, Drupal-module, a.s.o.
 * smoothing the left-right-movement
