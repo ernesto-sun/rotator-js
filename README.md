@@ -44,7 +44,7 @@ Ideas, bug-reports, improvements or any comments welcome. Thanks!!
  
 ## Installation:
 
-Just download the files and open the 'rotator.html' in any browser. Should work straight away.
+Just download the files and open the 'index.html' in any browser. Should work straight away.
 
 Edit index.html to configure your own entries. Edit custom.css to make it look as you want it. 
 
