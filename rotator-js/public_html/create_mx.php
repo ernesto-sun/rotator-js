@@ -4,10 +4,12 @@
 
 $m=array();
 
-for ($i=0;$i<180;$i++)
+$step=90/400;
+
+for ($i=0;$i<=400;$i++)
 {
-  $rad=deg2rad($i<<1);   
-  $m[]=array(100+round(sin($rad)*100),90+round(cos($rad)*90));    
+  $rad=deg2rad($step*$i);   
+  $m[]=round(cos($rad)*50,3);    
 }
 
 $r=json_encode($m);

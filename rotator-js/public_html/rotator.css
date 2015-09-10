@@ -4,16 +4,48 @@
 .div-rotator
 {
 position:relative;
-opacity:0.1;
-overflow:visible;	
+opacity:0.01;
+overflow:visible;
+display:block;
 }
 
-.div-rotator div
+.div-rotator
+.div-rotator-inner
+{
+position:relative;
+opacity:0.01;
+overflow:visible;
+display:block;
+}
+
+.div-rotator-inner
+{
+height:100%;
+width:100%;
+}
+
+
+.div-rotator div.div-ring
 {
 position:absolute;
+top:0%;
+left:0%;
+width:100%;
+height:100%;
 }
 
-.div-rotator div div div
+
+.div-rotator div.div-e
+{
+position:absolute;
+width:1px;
+height:1px;
+overflow:visible;
+left:50%;
+top:50%;
+}
+
+.div-rotator *
 {
 white-space: nowrap;	
 -moz-user-select: none;

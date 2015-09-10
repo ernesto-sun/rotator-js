@@ -21,15 +21,16 @@ text-align:center;
 
 
 .div-rotator
-{
-font-size:34px;
-width:80%;   /* do not set height, the script resets the effective values */
+{	
+margin:80px auto;
+font-size:38px;
+width:400px;   /* do not set height, the script resets the effective values */
+height:360px;   
 color:navy;
 }
 
 
 .div-rotator a,
-.div-rotator a:hover,
 .div-rotator a:link,
 .div-rotator a:active
 {
@@ -40,6 +41,7 @@ color:navy;
 .div-rotator a:hover
 {
 text-decoration:underline;		
+color:navy;
 }
 
 .div-rotator .small
@@ -64,9 +66,18 @@ left:-1em;
 width:4em;		
 height:auto;
 }
+
 .div-rotator a img:hover
 {
 border-bottom:0.1em solid;
+}
+
+.infobox
+{
+margin-top:1em;
+border:2px solid #1188cc;
+background:#aaddff;
+border-radius:1em;	
 }
 
 
