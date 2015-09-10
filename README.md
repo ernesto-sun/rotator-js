@@ -42,8 +42,6 @@ Ideas, bug-reports, improvements or any comments welcome. Thanks!!
 * http://www.iangeorge.net/snippets/tags/ (I really like this one)
 * https://github.com/jerone/JS-Cumulus
  
-Note: The most cumulus-implementations use much CPU but they are also nicer, smoother, more 3D. My hope is to find a way to realize a smooth left-right-movement and keep the nice performance.  
-
 ## Installation:
 
 Just download the files and open the 'rotator.html' in any browser. Should work straight away.
