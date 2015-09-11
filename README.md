@@ -41,6 +41,7 @@ Ideas, bug-reports, improvements or any comments welcome. Thanks!!
 * http://www.roytanck.com/tag-cloud/ (good old WP Cumulus plugin using Flash)
 * http://www.iangeorge.net/snippets/tags/ (I really like this one)
 * https://github.com/jerone/JS-Cumulus
+* http://jstagsphere.sourceforge.net/ (very nice and seems quite fast)
  
 ## Installation:
 
